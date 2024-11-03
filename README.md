@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laikhuram Korouhanba Khuman</h1>
-<h3 align="center">I'm a Computer Science undergraduate at the SRM Institute of science and technology.</h3>
+<h3 align="center">I'm a Computer Science undergraduate at the SRM Institute of Science and Technology.</h3>
 
 - 🌱 I’m currently learning **Machine learning**
 
