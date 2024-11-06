@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://laikhuramkorouhanba.github.io/My_Portfolio/](https://laikhuramkorouhanba.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://laikhuramkorouhanba.github.io/My_Portfolio/](https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/)
 
 - 💬 Ask me about **AI, ML, Sentiment Analysis**
 
