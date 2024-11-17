@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/](https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/)
 
-- 💬 Ask me about **AI, ML, Sentiment Analysis**
+- 💬 Ask me about **AI, ML, Sentiment Analysis, Generative AI**
 
 - 📫 How to reach me **laikhuramkorouhanba@gmail.com**
 
