@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laikhuram Korouhanba Khuman</h1>
 <h3 align="center">I'm a Computer Science undergraduate at the SRM Institute of Science and Technology.</h3>
 
-- 🌱 I’m currently learning **Machine learning, Big Data and Analytics**
+- 🌱 I’m currently learning **Big Data and Analytics, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/](https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/)
 
