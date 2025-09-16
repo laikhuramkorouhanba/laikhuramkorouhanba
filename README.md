@@ -2,7 +2,7 @@
 <h3 align="center">Master’s Student in Data Science & AI for Business X-HEC | École Polytechnique & HEC Paris</h3>
 
 - 🎓 I’m currently pursuing a **Master in Data Science and AI for Business** jointly offered by **École Polytechnique** and **HEC Paris**.   
-- 👨‍💻 Check out my portfolio and projects at [My Portfolio](https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/)  
+- 👨‍💻 Check out my portfolio and projects at [MY PORTFOLIO](https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/)  
 - 📫 Reach me at **laikhuramkorouhanba@gmail.com**  
 
 ---
