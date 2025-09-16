@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laikhuram Korouhanba Khuman</h1>
 <h3 align="center">Master’s Student in Data Science & AI for Business | École Polytechnique & HEC Paris</h3>
 
-- 🎓 I’m currently pursuing a **Master in Data Science and AI for Business** jointly offered by **École Polytechnique** and **HEC Paris**.  
-- 🚀 I’m expanding my expertise in **Big Data, Advanced Machine Learning, Generative AI, Data Analytics, and Business Strategy**.  
+- 🎓 I’m currently pursuing a **Master in Data Science and AI for Business** jointly offered by **École Polytechnique** and **HEC Paris**.   
 - 👨‍💻 Check out my portfolio and projects at [My Portfolio](https://laikhuramkorouhanba.github.io/MY_PORTFOLIO/)  
-- 💬 Ask me about **AI, ML, Data Analytics, Generative AI, and Business Applications of Data Science**  
 - 📫 Reach me at **laikhuramkorouhanba@gmail.com**  
 
 ---
