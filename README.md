@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laikhuram Korouhanba Khuman</h1>
+<h1 align="center">Laikhuram Korouhanba Khuman</h1>
 <h3 align="center">Master’s Student in Data Science & AI for Business X-HEC | École Polytechnique & HEC Paris</h3>
 
 - 🎓 I’m currently pursuing a **Master in Data Science and AI for Business** jointly offered by **École Polytechnique** and **HEC Paris**.   
