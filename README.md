@@ -12,15 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/korouhanbakhuman/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="korouhanba khuman" height="30" width="40" />
-</a>
-<a href="https://www.polytechnique.edu/en" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/École_Polytechnique_logo.svg/512px-École_Polytechnique_logo.svg.png" alt="École Polytechnique" height="40" />
-</a>
-<a href="https://www.hec.edu/en" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HEC_Paris.svg/512px-HEC_Paris.svg.png" alt="HEC Paris" height="35" />
-</a>
+<a href="https://www.linkedin.com/in/korouhanbakhuman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="korouhanba khuman" height="30" width="40" /></a>
 </p>
 
 ---
