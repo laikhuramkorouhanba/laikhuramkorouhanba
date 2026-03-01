@@ -1,8 +1,6 @@
-<h1 align="center">Laikhuram Korouhanba Khuman</h1>
-
-- 🎓 I’m currently pursuing a **Master in Data Science and AI for Business** jointly offered by **École Polytechnique** and **HEC Paris**.   
-- 👨‍💻 Check out my portfolio and projects [here](https://laikhuramkorouhanba.github.io/_/)  
-- 📫 Reach me at **laikhuram.korouhanba-khuman@polytechnique.edu**  
+<!-- <h1 align="center">Laikhuram Korouhanba Khuman</h1> -->
+ 
+[here](https://laikhuramkorouhanba.github.io/_/)  
 
 ---
 
