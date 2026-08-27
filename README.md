@@ -8,10 +8,10 @@ Most of what I build sits close to the point where a model meets an actual decis
 A PySpark implementation of element-wise Alternating Least Squares, following He et al. (SIGIR 2016). It learns recommendations from implicit signals such as clicks and purchases rather than star ratings, and weights unobserved interactions by item popularity instead of treating them all as equally negative. The formulation avoids the matrix inversions that make conventional ALS expensive, which is where most of the speedup comes from. Evaluated on 730,000 Yelp reviews under both a static protocol and a simulated stream. Built with [Bhavesh Chauhan](https://github.com/bhaveshchauhan2407).
 
 **[document-extraction-rag](https://github.com/laikhuramkorouhanba/document-extraction-rag)**  
-[FILL: one sentence on what it extracts and from what kind of document. Then one sentence on a design decision you actually had to think about, such as the chunking strategy or how you dealt with retrieval quality. Then a result, such as accuracy on a test set or how much manual reading it removed.]
+A retrieval system for security analysts working through CISA's Known Exploited Vulnerabilities catalogue, with a second path for querying PDFs the analyst uploads themselves. The two sources are retrieved differently on purpose: the vulnerability catalogue is structured and its records use consistent terminology, so sparse retrieval over TF-IDF works well and stays interpretable, while uploaded PDFs are unpredictable enough to need chunking and dense embeddings in a Chroma vector store. Generation runs on Llama 3.2 1B, small enough to keep the whole thing cheap to serve. Built during an exchange at the National Taipei University of Technology.
 
-**[qrt-churn-prediction](https://github.com/laikhuramkorouhanba/qrt-churn-prediction)**  
-[FILL: the problem in one sentence. Then the thing you did that was not obvious, such as a feature you engineered or a validation scheme that mattered. Then a number you can state precisely: leaderboard rank, AUC, whatever you have.]
+**[qrt-long-or-short](https://github.com/laikhuramkorouhanba/qrt-long-or-short)**  
+A directional classifier for QRT's Long or Short challenge, predicting whether an anonymised asset allocation returns positive or negative the next day from twenty days of returns, signed volume and turnover. The real problem turned out to be the gap between validation and leaderboard: feature sets that pushed cross-validation past 0.53 fell back to roughly 0.50 on held-out data, so the work became a matter of stripping out anything whose SHAP importance moved around across folds, even where it looked good in validation. Cross-validation was grouped by timestamp so that same-day observations never landed on both sides of a split. The final CatBoost model scored 0.5303 in cross-validation and 0.5203 on the public leaderboard. Team project at École Polytechnique.
 
 ## Tools
 
@@ -19,4 +19,4 @@ Python for nearly everything. Spark when the data stops fitting on one machine, 
 
 ## Elsewhere
 
-[Portfolio](https://laikhuramkorouhanba.github.io/_/) · [LinkedIn](FILL) · [Email](mailto:FILL)
+[Portfolio](https://laikhuramkorouhanba.github.io/_/) · [LinkedIn](https://www.linkedin.com/in/korouhanbakhuman/) · [Email](mailto:laikhuram.korouhanba-khuman@polytechnique.edu)
