@@ -15,4 +15,4 @@ Python for nearly everything. Spark when the data stops fitting on one machine, 
 
 ## Elsewhere
 
-[Portfolio](https://laikhuramkorouhanba.github.io/_/) · [LinkedIn](https://www.linkedin.com/in/korouhanbakhuman/) · [Email](mailto:laikhuram.korouhanba-khuman@polytechnique.edu)
+[LinkedIn](https://www.linkedin.com/in/korouhanbakhuman/) · [Email](mailto:laikhuram.korouhanba-khuman@polytechnique.edu)
