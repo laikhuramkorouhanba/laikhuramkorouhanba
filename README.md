@@ -1,1 +1,1 @@
-# Hello <img src="wave.svg" width="36" alt="waving hand">
+Hello <img src="wave.svg" width="30" alt="waving hand">
